@@ -3,6 +3,27 @@
     background-color: rgba(27, 29, 28, 0.178);
 }
 
+.header
+{
+display: flex;
+flex-direction: row;
+justify-content: right;
+}
+
+.nav
+{
+    margin-top: -100px;
+}
+
+.imgms
+{
+    display: flex;
+    flex-direction: row;
+    width: 60px;
+    height: 60px;
+
+}
+
 .btn
 {
     display: flex;
