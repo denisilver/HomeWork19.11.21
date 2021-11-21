@@ -3,12 +3,6 @@
     background-color: rgba(27, 29, 28, 0.178);
 }
 
-.header
-{
-display: flex;
-flex-direction: row;
-justify-content: left;
-}
 
 .nav
 {
