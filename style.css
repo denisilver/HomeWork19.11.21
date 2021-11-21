@@ -1,0 +1,46 @@
+.body
+{
+    background-color: aquamarine;
+}
+
+.btn
+{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    background-color: aquamarine;
+}
+
+.aside
+{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.link
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 50px;
+    height: 150px;
+}
+
+.h5
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-content: flex-end;
+}
+
+.footer
+{
+    display: flex;
+    flex-direction: row;
+    /* 0 flex-grow, 0 flex-shrink, auto flex-basis */
+    flex: 0 0 auto;
+}
