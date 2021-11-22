@@ -17,8 +17,7 @@ align-content: center;
 {
     display: flex;
     flex-direction: row
-    justify-content: flex-start;
-    align-content: center;
+    
 
 .aside
 {
